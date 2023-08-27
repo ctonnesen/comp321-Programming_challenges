@@ -1,0 +1,7 @@
+import sys
+
+i = 0
+g = {}
+
+for line in sys.stdin:
+    if i
